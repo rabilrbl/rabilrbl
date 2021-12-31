@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rabilrbl" target="blank"><img src="https://img.shields.io/twitter/follow/rabilrbl?logo=twitter&style=for-the-badge" alt="rabilrbl" /></a> </p>
 
-- 💬 Ask me about **Python3, Flask, Go, Full Stack, Security Practices.**
+- 💬 Ask me about **Python3, Flask, Go, Gin, Full Stack, REST-APIs and Technology.**
 
 - 📫 You can reach me **rabil@email.com**
 
