@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python3, Flask, Go, Full Stack, Security Practices.**
 
-- 📫 How to reach me **rabil@email.com**
+- 📫 You can reach me **rabil@email.com**
 
 - ⚡ Fun fact **A computer can make me fly 🪁**
 
