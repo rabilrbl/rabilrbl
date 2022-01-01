@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/rabilrbl" target="blank"><img src="https://img.shields.io/twitter/follow/rabilrbl?logo=twitter&style=for-the-badge" alt="rabilrbl" /></a> </p>
 
+- 🧑‍💻 Currently practicing as a **Full Stack Developer**
+
+- 🎓 Puruing my Bachelor of Engineering in AI&ML
+
 - 💬 Ask me about **Python3, Flask, Go, Gin, Full Stack, REST-APIs, Cloud, Servers, Technology.. etc.**
 
 - 📫 You can reach me **rabil@email.com**
