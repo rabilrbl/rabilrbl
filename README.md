@@ -10,7 +10,7 @@
 
 - 🧑‍💻 Currently practicing as a **Full Stack Developer**.
 
-- 🎓 Puruing my **Bachelor of Engineering in AI&ML**.
+- 🎓 Pursuing my **Bachelor of Engineering in AI&ML**.
 
 - 💬 Ask me about **Python3, Flask, Go, Gin, Full Stack, REST-APIs, Cloud, Servers, Technology.. etc.**
 
