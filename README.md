@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python3, Flask, Go, Gin, Full Stack, REST-APIs, Cloud, Servers, Technology.. etc.**
 
-- 📫 You can reach me **rabil@email.com** .
+- 📫 You can reach me either on **rabil@email.com** or <a href="https://telegram.me/rabilrbl"><img alt="telegram" title="Catch on Telegram" src="https://cdn-icons-png.flaticon.com/16/2111/2111644.png"/> Telegram</a>.
 
 - ⚡ Fun fact: **_I may not know everything but I'm always learning and upskilling_**.
 
