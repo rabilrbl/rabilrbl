@@ -16,7 +16,7 @@
 
 - 📫 You can reach me either on **rabil@email.com** or <b><a href="https://telegram.me/rabilrbl"><img alt="telegram" title="Catch on Telegram" src="https://cdn-icons-png.flaticon.com/16/2111/2111644.png"/> Telegram</a></b>.
 
-- ⚡ Fun fact: **_I may not know everything but I'm always learning and upskilling_**.
+- ⚡ Fun fact: **_I may not know everything but I'm always learning and upskilling to the peak_**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
