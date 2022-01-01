@@ -14,15 +14,16 @@
 
 - 💬 Ask me about **Python3, Flask, Go, Gin, Full Stack, REST-APIs, Cloud, Servers, Technology.. etc.**
 
-- 📫 You can reach me either on **rabil@email.com** or <a href="https://telegram.me/rabilrbl"><img alt="telegram" title="Catch on Telegram" src="https://cdn-icons-png.flaticon.com/16/2111/2111644.png"/> Telegram</a>.
+- 📫 You can reach me either on **rabil@email.com** or <b><a href="https://telegram.me/rabilrbl"><img alt="telegram" title="Catch on Telegram" src="https://cdn-icons-png.flaticon.com/16/2111/2111644.png"/> Telegram</a></b>.
 
 - ⚡ Fun fact: **_I may not know everything but I'm always learning and upskilling_**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rabilrbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabilrbl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rabilrbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabilrbl" height="30" width="40" /></a>
-<a href="https://instagram.com/rabilrbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabilrbl" height="30" width="40" /></a>
+<a href="https://twitter.com/rabilrbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabilrbl" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rabilrbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabilrbl" height="30" width="40" /></a>&nbsp;&nbsp;
+ <a href="https://telegram.me/rabilrbl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/32/2111/2111644.png" alt="rabilrbl" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/rabilrbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabilrbl" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/rabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rabil" height="30" width="40" /></a>
 </p>
 
