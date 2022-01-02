@@ -41,8 +41,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabilrbl&count_private=true&theme=radical" alt="rabilrbl" />
 
 </p>
-
-
-<style type="text/css">
-    ul { list-style-type: none; }
-</style>
