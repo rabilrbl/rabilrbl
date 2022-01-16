@@ -36,7 +36,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabilrbl&show_icons=true&locale=en&layout=compact&theme=radical" alt="rabilrbl" />
   &nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&locale=en&hide=contribs,prs&count_private=true&theme=radical" alt="rabilrbl" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&locale=en&count_private=true&theme=radical" alt="rabilrbl" />
  &nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabilrbl&count_private=true&theme=radical" alt="rabilrbl" />
 
