@@ -31,7 +31,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&locale=en&count_private=true&theme=radical" alt="rabilrbl" />
  &nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabilrbl&count_private=true&theme=radical" alt="rabilrbl" />
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rabilrbl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rabil's Github Graph" />
+<!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rabilrbl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rabil's Github Graph" /> -->
 
 </p>
 </details>
