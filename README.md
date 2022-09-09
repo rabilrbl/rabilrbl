@@ -3,7 +3,6 @@
  
  <p align="center">
   <a href="https://twitter.com/rabilrbl"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/rabilrbl?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/rabilrbl"><img src="https://komarev.com/ghpvc/?username=rabilrbl&label=Profile%20views&color=0e75b6&style=flat" alt="rabilrbl" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rabilrbl"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rabilrbl?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
@@ -26,9 +25,8 @@
   
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&locale=en&count_private=true&theme=radical" alt="rabilrbl" />
  &nbsp;
- <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabilrbl&count_private=true&theme=radical" alt="rabilrbl" />
-<!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rabilrbl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rabil's Github Graph" /> -->
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rabilrbl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rabil's Github Graph" />
 
 </p>
 </details>
