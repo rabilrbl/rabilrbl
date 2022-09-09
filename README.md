@@ -8,8 +8,6 @@
   <a href="https://github.com/rabilrbl"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rabilrbl?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-- 🧑‍💻 Currently practicing as a **Full Stack Developer**.
-
 - 🎓 Pursuing my **Bachelor of Engineering in AI&ML**.
 
 - 📫 You can reach me either on **rabil@email.com** or <b><a href="https://telegram.me/rabilrbl"><img alt="telegram" title="Catch on Telegram" src="https://cdn-icons-png.flaticon.com/16/2111/2111644.png"/> Telegram</a></b>.
@@ -26,10 +24,9 @@
  <summary><h3 align="left">Overall Stats:</h3></summary>
 <p align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabilrbl&show_icons=true&locale=en&layout=compact&theme=radical" alt="rabilrbl" />
-  &nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&locale=en&count_private=true&theme=radical" alt="rabilrbl" />
  &nbsp;
+ <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabilrbl&count_private=true&theme=radical" alt="rabilrbl" />
 <!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rabilrbl&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Rabil's Github Graph" /> -->
 
