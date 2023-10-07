@@ -14,7 +14,7 @@
 >   </details>
 >  </p>
   <details>
-<summary><h3>Boring Stats 😑</h3></summary>
+<summary><b>Boring Stats 😑</b></summary>
 <p align="center">
   
  <img src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&locale=en&count_private=true&theme=radical" alt="rabilrbl" />
