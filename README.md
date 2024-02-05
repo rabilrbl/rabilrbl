@@ -24,6 +24,6 @@ Hey there! I'm a software developer on a mission to create impactful solutions t
 ### 🌟 Let's Connect
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/rabilrbl/)
 - Follow me on [Twitter](https://twitter.com/rabilrbl/)
-- Check out my [personal website](https://rabil.me/) for more about my projects and interests.
+- Check out my outdated (lazy to update 😅) [personal website](https://rabil.me/) for more about my projects and interests.
 
 Feel free to explore my repositories and don't hesitate to drop a star or open an issue if something catches your eye! Together, let's build a brighter, better future through technology. ✨
