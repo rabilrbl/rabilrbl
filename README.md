@@ -4,7 +4,7 @@
 
 ## 🍥 Passionate about building things that make people's lives better and about making the world a better place.
 
-Hey there! I'm Mohammed Rabil, a software developer on a mission to create impactful solutions that enhance lives and contribute positively to the world. With a blend of passion for technology, software, and AI, I strive to craft meaningful experiences through code.
+Hey there! I'm a software developer on a mission to create impactful solutions that enhance lives and contribute positively to the world. With a blend of passion for technology, software, and AI, I strive to craft meaningful experiences through code.
 
 ### 📊 Stats
 
