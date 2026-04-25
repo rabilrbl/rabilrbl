@@ -1,1 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="888px" height="443px" viewBox="0 0 888 443" version="1.1" style="background: rgb(247, 247, 247); baseline-shift: 0px; clip-rule: nonzero; color: rgb(0, 0, 0); color-interpolation: srgb; color-interpolation-filters: linearrgb; color-rendering: auto; cursor: auto; direction: ltr; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; font: 400 16px / 18.4px Nunito, sans-serif; image-rendering: auto; letter-spacing: normal; marker: none; overflow: hidden; paint-order: normal; pointer-events: auto; shape-rendering: auto; stroke: none; stroke-dasharray: none; stroke-dashoffset: 0px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 1px; text-anchor: start; text-decoration: none solid rgb(0, 0, 0); text-rendering: auto; visibility: visible; word-spacing: 0px; writing-mode: horizontal-tb;" xmlns:xlink="http://www.w3.org/1999/xlink"><defs style="baseline-shift: 0px; paint-order: normal; text-decoration: none solid rgb(0, 0, 0);"><linearGradient x1="87.9681034%" y1="50%" x2="1.27351722%" y2="50%" id="linearGradient-1" style="baseline-shift: 0px; paint-order: normal; text-decoration: none solid rgb(0, 0, 0);"><stop stop-color="#1F202E" offset="0%" style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"></stop><stop stop-color="#865A3C" offset="67.6877392%" style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(134, 90, 60); text-decoration: none solid rgb(0, 0, 0);"></stop><stop stop-color="#1F202E" offset="100%" style="baseline-shift: 0px; paint-order: normal; stop-color: rgb(31, 32, 46); text-decoration: none solid rgb(0, 0, 0);"></stop></linearGradient></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Arial-BoldMT, Arial" font-weight="bold" style="baseline-shift: 0px; fill: none; fill-rule: evenodd; font-weight: 700; line-height: 18.4px; font-family: Arial-BoldMT, Arial; paint-order: normal; text-decoration: none solid rgb(0, 0, 0);"><g id="gh-banner" style="baseline-shift: 0px; paint-order: normal; text-decoration: none solid rgb(0, 0, 0);"><text id="gh-title-reflection" fill="url(#linearGradient-1)" font-size="48" style="baseline-shift: 0px; display: block; fill: url(&quot;#linearGradient-1&quot;); font-size: 48px; line-height: 55.2px; paint-order: normal; text-decoration: none solid rgb(0, 0, 0);"><tspan x="444" y="234" text-anchor="middle" style="baseline-shift: 0px; paint-order: normal; text-anchor: middle; text-decoration: none solid rgb(0, 0, 0);">Hey! 👋, I'm Mohammed Rabil</tspan></text><text id="gh-title-reflection-copy" font-size="18" fill="#4D4E56" style="baseline-shift: 0px; display: block; fill: rgb(77, 78, 86); font-size: 18px; line-height: 20.7px; paint-order: normal; text-decoration: none solid rgb(0, 0, 0);"><tspan x="444" y="309" text-anchor="middle" style="baseline-shift: 0px; paint-order: normal; text-anchor: middle; text-decoration: none solid rgb(0, 0, 0);">💻 A passionate software developer who Love 💖 to build applications.</tspan></text></g></g></svg>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Rabil GitHub profile banner</title>
+  <desc id="desc">A dark modern gradient banner introducing Mohammed Rabil as a software developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(926 78) rotate(142) scale(480 300)">
+      <stop stop-color="#22d3ee" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(242 316) rotate(-28) scale(430 260)">
+      <stop stop-color="#8b5cf6" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="emerald" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(790 335) rotate(-110) scale(380 210)">
+      <stop stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="stroke" x1="120" y1="54" x2="1080" y2="306" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67e8f9" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="shadow" x="80" y="20" width="1040" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="40" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#cyan)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#violet)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#emerald)"/>
+
+  <g opacity="0.25">
+    <path d="M0 253C125 210 201 218 336 257C475 297 578 296 707 246C830 199 972 164 1200 205" stroke="#94a3b8" stroke-width="1"/>
+    <path d="M0 291C151 237 258 250 401 287C540 323 676 309 807 246C928 188 1056 166 1200 185" stroke="#64748b" stroke-width="1"/>
+    <path d="M0 111C167 152 315 143 439 93C576 38 701 51 829 109C952 166 1054 174 1200 132" stroke="#475569" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.24">
+    <circle cx="158" cy="82" r="2" fill="#e2e8f0"/>
+    <circle cx="228" cy="132" r="1.6" fill="#67e8f9"/>
+    <circle cx="998" cy="224" r="2" fill="#a78bfa"/>
+    <circle cx="1056" cy="95" r="1.8" fill="#34d399"/>
+    <circle cx="905" cy="62" r="1.4" fill="#e2e8f0"/>
+    <circle cx="701" cy="296" r="1.5" fill="#67e8f9"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="104" y="44" width="992" height="272" rx="28" fill="#020617" fill-opacity="0.46" stroke="url(#stroke)"/>
+    <rect x="136" y="76" width="150" height="32" rx="16" fill="#0f172a" stroke="#334155"/>
+    <circle cx="154" cy="92" r="5" fill="#22d3ee"/>
+    <text x="170" y="99" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600">rabilrbl.dev</text>
+
+    <text x="136" y="168" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.8">Mohammed Rabil</text>
+    <text x="136" y="214" fill="#bae6fd" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="25" font-weight="650">Software Developer · Automation · Web · AI tooling</text>
+    <text x="136" y="258" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="500">Building sharp, useful systems from Sullia, India.</text>
+
+    <g transform="translate(776 93)">
+      <rect width="246" height="174" rx="22" fill="#0f172a" fill-opacity="0.72" stroke="#334155"/>
+      <text x="28" y="46" fill="#94a3b8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">focus</text>
+      <text x="28" y="82" fill="#f8fafc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20" font-weight="700">ship useful things</text>
+      <text x="28" y="121" fill="#67e8f9" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">web</text>
+      <text x="80" y="121" fill="#a78bfa" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">infra</text>
+      <text x="145" y="121" fill="#34d399" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">agents</text>
+      <path d="M28 145H218" stroke="#334155"/>
+      <text x="28" y="161" fill="#94a3b8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">github.com/rabilrbl</text>
+    </g>
+  </g>
+</svg>
