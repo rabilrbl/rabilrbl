@@ -47,6 +47,7 @@ Ship useful things. Keep the stack simple. Make the interface feel sharp.
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=F97316" />
   <img alt="Bun" src="https://img.shields.io/badge/Bun-111827?style=flat-square&logo=bun&logoColor=FBF0DF" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" />
@@ -58,7 +59,7 @@ Ship useful things. Keep the stack simple. Make the interface feel sharp.
 
 <p align="center">
   <img height="165" alt="Rabil's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rabilrbl&show_icons=true&theme=transparent&hide_border=true&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabilrbl&layout=compact&theme=transparent&hide_border=true&title_color=67e8f9&text_color=cbd5e1" />
+  <img height="165" alt="Rabil's GitHub streak" src="https://streak-stats.demolab.com?user=rabilrbl&theme=transparent&hide_border=true&ring=67e8f9&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=cbd5e1&sideNums=f8fafc&dates=94a3b8" />
 </p>
 
 ---

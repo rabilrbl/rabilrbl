@@ -51,23 +51,28 @@
 
   <g filter="url(#shadow)">
     <rect x="104" y="44" width="992" height="272" rx="28" fill="#020617" fill-opacity="0.46" stroke="url(#stroke)"/>
-    <rect x="136" y="76" width="150" height="32" rx="16" fill="#0f172a" stroke="#334155"/>
+    <rect x="136" y="76" width="118" height="32" rx="16" fill="#0f172a" stroke="#334155"/>
     <circle cx="154" cy="92" r="5" fill="#22d3ee"/>
-    <text x="170" y="99" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600">rabilrbl.dev</text>
+    <text x="170" y="99" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600">rabil.me</text>
 
     <text x="136" y="168" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.8">Mohammed Rabil</text>
     <text x="136" y="214" fill="#bae6fd" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="25" font-weight="650">Software Developer · Automation · Web · AI tooling</text>
     <text x="136" y="258" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="500">Building sharp, useful systems from Sullia, India.</text>
 
-    <g transform="translate(776 93)">
-      <rect width="246" height="174" rx="22" fill="#0f172a" fill-opacity="0.72" stroke="#334155"/>
-      <text x="28" y="46" fill="#94a3b8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">focus</text>
-      <text x="28" y="82" fill="#f8fafc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20" font-weight="700">ship useful things</text>
-      <text x="28" y="121" fill="#67e8f9" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">web</text>
-      <text x="80" y="121" fill="#a78bfa" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">infra</text>
-      <text x="145" y="121" fill="#34d399" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16">agents</text>
-      <path d="M28 145H218" stroke="#334155"/>
-      <text x="28" y="161" fill="#94a3b8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">github.com/rabilrbl</text>
+    <g transform="translate(768 88)">
+      <rect width="270" height="184" rx="22" fill="#0f172a" fill-opacity="0.72" stroke="#334155"/>
+      <text x="135" y="48" text-anchor="middle" fill="#94a3b8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">focus</text>
+      <text x="135" y="84" text-anchor="middle" fill="#f8fafc" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20" font-weight="700">ship useful things</text>
+      <g transform="translate(45 106)">
+        <rect x="0" y="0" width="52" height="28" rx="14" fill="#082f49" stroke="#155e75"/>
+        <rect x="64" y="0" width="64" height="28" rx="14" fill="#2e1065" stroke="#6d28d9"/>
+        <rect x="140" y="0" width="84" height="28" rx="14" fill="#052e16" stroke="#047857"/>
+        <text x="26" y="19" text-anchor="middle" fill="#67e8f9" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">web</text>
+        <text x="96" y="19" text-anchor="middle" fill="#c4b5fd" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">infra</text>
+        <text x="182" y="19" text-anchor="middle" fill="#86efac" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14">agents</text>
+      </g>
+      <path d="M28 152H242" stroke="#334155"/>
+      <text x="135" y="169" text-anchor="middle" fill="#94a3b8" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13">github.com/rabilrbl</text>
     </g>
   </g>
 </svg>
